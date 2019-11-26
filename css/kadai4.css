@@ -1,0 +1,30 @@
+h1.greencolor{
+    color:white;
+    text-align: center;
+    background-color:darkgreen;
+}
+
+h1#kudo{
+    color:white;
+    text-align: center;
+    background-color:blue;
+}
+
+h2{
+    color:darkviolet;
+    background-color:palegreen;
+    text-align: center;
+}
+h2.a{
+    color:palegreen;
+    background-color: darkviolet;
+    text-align: center;
+}
+.big{
+    font-size:30px
+}
+body{
+    background-image:url("../images/haikei.jpg");
+    background-attachment:fixed;
+    background-position: bottom right;
+}
