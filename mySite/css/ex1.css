@@ -1,0 +1,22 @@
+h1{
+    color:white;
+    text-align: center;
+    background-color:darkgreen;
+}
+
+h2{
+    color:darkviolet;
+    background-color:palegreen;
+    text-align: center;
+}
+table{
+    background-color:aquamarine;    
+}
+ol{
+    background-image:url(../images/haikei2.jpg)
+}
+body{
+    background-image:url("../images/haikei.jpg");
+    background-attachment:fixed;
+    background-position: bottom right;
+}
