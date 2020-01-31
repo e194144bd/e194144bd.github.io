@@ -1,0 +1,84 @@
+body{
+    background-image: url(../images/haikei.jpg);
+}
+div.title{
+    width: 1000px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+div.Menu{
+    width: 1000px;
+    height: 40px;
+    font-size:30px;
+    margin: 20px 0px;
+}
+span.menuitem{
+    background-image: url(../images/renga.jpg);
+    width: 191.8px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+}
+div.Contents{
+    width: 1000px;
+    height: 610px;
+    font-size: 0px; 
+}
+div.content{
+    width: 500px;
+    height: 610px;
+    font-size: 45px;
+    display: inline-block;
+    text-align: center;
+}
+div.cont1{
+    background-image: url(../images/ZeroOne.jpg);
+    
+    background-size:495px 300px;
+    color: cyan;
+    width: 495px;
+    height: 60px;
+    margin: 0px 5px 0px 0px;
+    padding: 120px 0px;
+}
+div.cont2{
+    background-image: url(../images/BanG.jpg);
+    background-size:495px 300px;
+    width: 495px;
+    height: 60px;
+    margin: 10px 5px 0px 0px;
+    padding: 120px 0px;
+    color: aqua;
+    font-family:  "Impact";
+}
+div.cont3{
+    background-image: url(../images/bei.jpg);
+    background-size:495px 300px;
+    color:aqua;
+    width: 495px;
+    height: 60px;
+    margin: 0px 0px 0px 5px;
+    padding: 120px 0px;
+}
+div.cont4{
+    color:aqua;
+    font-family:  "Impact";
+    background-image: url(../images/fens.png);
+    height: 60px;
+    margin: 10px 0px 0px 5px;
+    padding: 120px 0px;
+}
+div.footer{
+    background-image: url(../images/haikei2.jpg);
+    font-size: 32px;
+    width: 1000px;
+    height: 40px;
+    margin: 20px 0px 0px 0px;
+}
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
